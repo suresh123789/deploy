@@ -16,4 +16,4 @@ spec:
       - name: react-app
         image: suresh240/apica:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 8080
